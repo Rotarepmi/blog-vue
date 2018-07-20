@@ -1,7 +1,5 @@
 # vuejs-playlist
 
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
